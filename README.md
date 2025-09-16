@@ -12,7 +12,7 @@ A **comprehensive analysis of NFT market trends** with **interactive visualizati
   * Daily & cumulative NFT sales (USD)
   * Primary vs Secondary sales (cumulative)
   * Daily number of transactions
-  * Distribution of daily sales & number of sales
+  * Distribution of daily sales & number of sales 
   * Correlation matrix of market metrics
 * 🤖 **Forecasting Models:**
 
